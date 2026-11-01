@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/calculator", "destination": "/calculator.html" },
+    { "source": "/", "destination": "/index.html" }
+  ]
+}
